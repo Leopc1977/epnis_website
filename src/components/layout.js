@@ -11,7 +11,8 @@ import {
 const Layout = ({ pageTitle, children }) => {
   return (
     <div className={container}>
-      <title>{pageTitle}</title>
+      <title>{pageTitle} - Les élements</title>
+      <p>LES ELEMENTS</p>
       <nav>
         <ul className={navLinks}>
           <li className={navLinkItem}>
