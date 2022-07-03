@@ -6,10 +6,10 @@ const ArticlesPage = () => {
   return (
     <Layout pageTitle="Articles">
         <div>
-            <p>Articles jpages</p>
-            <p>Test articles 1 : 
+            <p>Articles</p>
+            <p>Articles 1 : 
                 <Link to="/articles/article_1">
-                        ici
+                  ici
                 </Link> !
             </p>
         </div>

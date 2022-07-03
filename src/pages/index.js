@@ -1,7 +1,7 @@
 import * as React from 'react'
 import Layout from '../components/layout'
 import HomeArticleModel from '../components/homeArticleModel'
-import "../components/base_css.css"
+import "../components/base.css"
 
 const IndexPage = () => {
   return (
@@ -14,6 +14,7 @@ const IndexPage = () => {
                         author="Lucile Laulin"
                         fileArticle="articles/article_1"
       >
+        
       </HomeArticleModel>
 
       <HomeArticleModel subject="Supérieur" 

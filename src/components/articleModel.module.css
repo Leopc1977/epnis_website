@@ -1,0 +1,28 @@
+.heading_css {
+    text-align: center;
+}
+
+.nameArticle_css {
+    font-size: 2em;
+}
+
+.blocArticle_css {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.intro_css {
+    font-size: 1.2em;
+    font-weight:700;
+}
+
+.chapter_css {
+    font-size: 1.5em;
+    color: red;
+}
+
+.socialNetwork_css {
+    text-align: center;
+    font-size: 1.5em;
+}
