@@ -13,7 +13,7 @@ import {
 
 import crab from '../images/crabe_0.png'
 
-const ArticleModel = ({ }) => {
+const ArticleModel = ({children}) => {
     return (
         <main>
             <div className={heading_css}>
@@ -29,7 +29,8 @@ const ArticleModel = ({ }) => {
                 <img src={crab} width="90%"></img>
                 <p>Soit Sn la position du crabe à l'instant n et Xk la variable qui décrit le k-ième pas, c'est-à-dire pour k≥1p /////////////////////////</p>
 
-            
+                {children}
+
             </div>
             <div className={socialNetwork_css}>
                 <p>Partager cet article</p>

@@ -18,8 +18,12 @@
     "gatsby": "^4.17.2",
     "gatsby-plugin-image": "^2.17.0",
     "gatsby-plugin-sharp": "^4.17.0",
+    "gatsby-remark-katex": "^6.17.0",
     "gatsby-source-filesystem": "^4.17.0",
+    "gatsby-transformer-remark": "^5.17.0",
+    "katex": "^0.13.24",
     "react": "^18.1.0",
-    "react-dom": "^18.1.0"
+    "react-dom": "^18.1.0",
+    "react-latex": "^2.0.0"
   }
 }
